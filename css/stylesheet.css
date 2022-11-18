@@ -14,7 +14,11 @@ body {
 }
 
 .container-color {
-  background-color: rgba(89, 115, 139, 0.651);
+  background-color: rgba(89, 129, 139, 0.651);
+}
+
+.card-color {
+  background-color: rgba(235, 252, 251, 0.651);
 }
 
 h1,
